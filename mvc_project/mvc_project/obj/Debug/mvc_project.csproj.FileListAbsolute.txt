@@ -1,0 +1,14 @@
+C:\Users\llpoctak\source\repos\mvc_project\mvc_project\bin\Debug\mvc_project.exe.config
+C:\Users\llpoctak\source\repos\mvc_project\mvc_project\bin\Debug\mvc_project.exe
+C:\Users\llpoctak\source\repos\mvc_project\mvc_project\bin\Debug\mvc_project.pdb
+C:\Users\llpoctak\source\repos\mvc_project\mvc_project\obj\Debug\mvc_project.csprojAssemblyReference.cache
+C:\Users\llpoctak\source\repos\mvc_project\mvc_project\obj\Debug\mvc_project.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\source\repos\mvc_project\mvc_project\obj\Debug\mvc_project.exe
+C:\Users\llpoctak\source\repos\mvc_project\mvc_project\obj\Debug\mvc_project.pdb
+C:\Users\popel\Downloads\patterns c\mvc_project\mvc_project\bin\Debug\mvc_project.exe.config
+C:\Users\popel\Downloads\patterns c\mvc_project\mvc_project\bin\Debug\mvc_project.exe
+C:\Users\popel\Downloads\patterns c\mvc_project\mvc_project\bin\Debug\mvc_project.pdb
+C:\Users\popel\Downloads\patterns c\mvc_project\mvc_project\obj\Debug\mvc_project.csprojAssemblyReference.cache
+C:\Users\popel\Downloads\patterns c\mvc_project\mvc_project\obj\Debug\mvc_project.csproj.CoreCompileInputs.cache
+C:\Users\popel\Downloads\patterns c\mvc_project\mvc_project\obj\Debug\mvc_project.exe
+C:\Users\popel\Downloads\patterns c\mvc_project\mvc_project\obj\Debug\mvc_project.pdb
